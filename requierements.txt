@@ -1,3 +1,0 @@
-Library Pandas
-Library Matplotlib
-Streamlit
